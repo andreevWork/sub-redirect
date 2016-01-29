@@ -1,0 +1,22 @@
+{
+  "name": "sub-redirect",
+  "version": "1.0.0",
+  "description": "Simple module for redirectfrom subdomain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreevWork/sub-redirect.git"
+  },
+  "keywords": [
+    "redirect"
+  ],
+  "author": "Andreev Vladimir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreevWork/sub-redirect/issues"
+  },
+  "homepage": "https://github.com/andreevWork/sub-redirect#readme"
+}
