@@ -1,4 +1,4 @@
-# subdomain-redirect
+# sub-redirect
 
 It's simple express module, for redirect from subdomains.
 
