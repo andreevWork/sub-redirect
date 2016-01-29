@@ -1,6 +1,6 @@
 {
   "name": "sub-redirect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple module for redirectfrom subdomain",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,10 @@
     "url": "git+https://github.com/andreevWork/sub-redirect.git"
   },
   "keywords": [
-    "redirect"
+    "redirect",
+    "301",
+    "subdomain",
+    "www"
   ],
   "author": "Andreev Vladimir",
   "license": "ISC",
